@@ -1,5 +1,5 @@
 # DPAM
-code for Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles [pdf](https://dl.acm.org/citation.cfm?doid=3209978.3210057)
+code for Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles [[pdf]](https://dl.acm.org/citation.cfm?doid=3209978.3210057)
 
 ## Description
 In juridical field, judges usually need to consult several relevant cases to determine the specific articles that the evidence violated, which is a task that is time consuming and needs
