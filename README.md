@@ -10,7 +10,7 @@ DPAM model is used to predict articles by the evidences. This model adopt the mu
 
 ## Getting Started
 1. clone the code
-2. download the dataset from google driver, which url in the Download.
+2. download the dataset
 3. mv the dataset file into code dir
 4. run the script: run.sh
 
