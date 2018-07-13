@@ -1,5 +1,5 @@
 # DPAM
-code for Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles [[pdf]](https://dl.acm.org/citation.cfm?doid=3209978.3210057)
+code for Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles, SIGIR 2018 [[pdf]](https://dl.acm.org/citation.cfm?doid=3209978.3210057)
 
 ## Bibtex
 ```
