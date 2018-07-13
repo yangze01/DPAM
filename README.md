@@ -1,6 +1,25 @@
 # DPAM
 code for Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles [[pdf]](https://dl.acm.org/citation.cfm?doid=3209978.3210057)
 
+## Bibtex
+@inproceedings{Wang:2018:MDP:3209978.3210057,
+ author = {Wang, Pengfei and Yang, Ze and Niu, Shuzi and Zhang, Yongfeng and Zhang, Lei and Niu, ShaoZhang},
+ title = {Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles},
+ booktitle = {The 41st International ACM SIGIR Conference on Research \&\#38; Development in Information Retrieval},
+ series = {SIGIR '18},
+ year = {2018},
+ isbn = {978-1-4503-5657-2},
+ location = {Ann Arbor, MI, USA},
+ pages = {485--494},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3209978.3210057},
+ doi = {10.1145/3209978.3210057},
+ acmid = {3210057},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {dynamic threshold predictor, multi-label classification, pairwise attention model},
+} 
+
 ## Description
 In juridical field, judges usually need to consult several relevant cases to determine the specific articles that the evidence violated, which is a task that is time consuming and needs
 extensive professional knowledge. we treat the evidences as documents, and articles as labels, thus
