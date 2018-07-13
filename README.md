@@ -2,6 +2,7 @@
 code for Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles [[pdf]](https://dl.acm.org/citation.cfm?doid=3209978.3210057)
 
 ## Bibtex
+
 @inproceedings{Wang:2018:MDP:3209978.3210057,
  author = {Wang, Pengfei and Yang, Ze and Niu, Shuzi and Zhang, Yongfeng and Zhang, Lei and Niu, ShaoZhang},
  title = {Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles},
