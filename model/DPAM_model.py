@@ -154,7 +154,7 @@ class DPAM(object):
         margin = -labels*(logits - self.dynamic_scores)
         return tf.log(1 + tf.exp(margin))
 
-    def cal_cross_entropy_loss(self, logits, labels):
+    def cal_neg_loss(self, logits, labels):
         y_hat = tf.sigmoid(self.scores * labels)
         ns_hat = tf.sigmoid(-self.scores * (1 - labels))
         cost_s = -tf.log(y_hat)
